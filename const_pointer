@@ -1,0 +1,4 @@
+char *            : Pointer
+const char*       : 字串內容不能改
+char const *      : address不能改
+const char const *: 全都不能改
